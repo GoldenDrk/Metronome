@@ -168,7 +168,7 @@ function Metronome() {
   return (
     <>
       <div className="toc3GranContainer">
-        <h1>
+        <h1 className="titleh1">
           <img src="https://www.svgrepo.com/show/54034/metronome.svg" alt="metronome_svg" style={{height:50 + 'px'}} />
           <span style={{paddingBottom: 0.25 + 'rem'}}>METRONOME</span>
         </h1>
