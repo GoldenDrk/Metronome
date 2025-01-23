@@ -1,0 +1,21 @@
+#root {
+    max-width: 1280px;
+    text-align: center;
+  }
+  
+  .read-the-docs {
+    color: #888;
+  }
+  
+  .bg-image {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-image: url(https://media.istockphoto.com/id/1462108511/photo/beautiful-young-drummer-playing-at-a-band-rehearsal-doing-tricks-with-drumsticks-learning.jpg?s=612x612&w=0&k=20&c=X2ZSKLt1AYI3L-iu3Sjmk5WmyDHIx0tV79UDU1BNvCo=);
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
